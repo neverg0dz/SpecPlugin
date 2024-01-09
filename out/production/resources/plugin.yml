@@ -1,0 +1,6 @@
+name: SpecPlugin
+version: '${version}'
+main: dev.nevergodz.specplugin.SpecPlugin
+commands:
+  spec:
+    description: Слежка за игроками
